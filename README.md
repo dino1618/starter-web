@@ -7,3 +7,5 @@ Added some text to purpose
 ## Deployment
 Added some text to Deployment
 ## How to Contribute
+## Copyright
+Git.Training.2020
