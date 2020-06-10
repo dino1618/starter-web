@@ -7,5 +7,6 @@ Added some text to purpose
 ## Deployment
 Added some text to Deployment
 ## How to Contribute
+Please fork this repository and issue Pull requests for review.
 ## Copyright
 Git.Training.2020
