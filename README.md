@@ -1,5 +1,6 @@
 # Starter Web Project
 Simple file for showing how to use Git and Github together
+Adding a line for rebasing example
 ## Introduction
 Added some intro text
 ## Purpose
