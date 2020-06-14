@@ -11,4 +11,4 @@ Added some text to Deployment
 ## How to Contribute
 Please fork this repository and issue Pull requests for review.
 ## Copyright
-Git.Training.2020
+Git.Training.2020. All rights reserverd.
