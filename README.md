@@ -12,3 +12,5 @@ Added some text to Deployment
 Please fork this repository and issue Pull requests for review.
 ## Copyright
 Git.Training.2020. All rights reserverd.
+## Testing Visual Studio Code
+Blah blah blah
